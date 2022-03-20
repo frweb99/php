@@ -16,3 +16,5 @@ echo $moto2->messaggio()  . "<br>";
 use frweb\auto\honda;
 $moto3 = new honda();
 $moto3->messaggio();
+
+echo "modifica Francesco";
