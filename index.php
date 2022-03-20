@@ -3,7 +3,7 @@
 require_once __DIR__ . "/classi/moto/ducati.php";
 require_once __DIR__ . "/classi/moto/honda.php";
 
-require_once __DIR__ . "/classi/auto/honda.php";
+require_once __DIR__ . "enricoi";
 
 use frweb\moto\honda;
 use frweb\moto\ducati;
